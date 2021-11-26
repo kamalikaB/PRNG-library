@@ -1,0 +1,5 @@
+/home/kamalika/Desktop/diehard/diehard_updated/data/dsfmt64_7.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/dsfmt64_1234.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/dsfmt64_12345.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/dsfmt64_19650218.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/dsfmt64_123456789123456789.bin

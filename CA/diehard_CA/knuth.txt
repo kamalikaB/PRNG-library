@@ -1,0 +1,5 @@
+/home/kamalika/Desktop/diehard/diehard_updated/data/knuth7.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/knuth1234.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/knuth12345.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/knuth19650218.bin
+/home/kamalika/Desktop/diehard/diehard_updated/data/knuth123456789123456789.bin
