@@ -1,3 +1,4 @@
+/************CA150' based PRNG that uses Tempering and Twist of MT-19937 and produces 44 32-bit numbers at a time*/
 #include <bits/stdc++.h>
 #include <fstream>
 #include "1409seedsks.h"
