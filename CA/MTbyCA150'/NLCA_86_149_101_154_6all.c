@@ -91,14 +91,14 @@ unsigned long genrand_int32(void)
 
 int main(int argc, char* argv[])
 {
-    int seednum=367;
+    int seednum=393;
 
     if(argc>1)
         seednum=atoi(argv[1]);
 
     int i,j;
     init_genrand(seednum);
-
+    
     unsigned long out;
    
 
