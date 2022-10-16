@@ -125,15 +125,6 @@ int main(int argc, char* argv[])
     	int bin_out[32]; 
     	out = genrand_int32();
     	printf("%lu\n", out);
-    	/*util_convert(out);
-    	for(i=0;i<32;i++)
-    		fprintf(fp,"%d",ou[i]);
-    	j++;
-    	if(j%44==0)
-    		fprintf(fp,"\n");
-    	}
-    
-    fclose(fp);   */
     }  
     return 0;
 }
