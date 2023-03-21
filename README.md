@@ -3,7 +3,7 @@ A collection of existing PRNG source files with codes for empirical testing with
 
 These codes are used for our paper "A search for Good Random Number Generators: Survey and Empirical Studies"
 
-The codes of the package "umontreal_pierre_lecuyer" are taken from Prof. Pierre L’Ecuyer's software library. He have developed these libarraies in many programming languages. I have used Java and C implementations. Following are the details:
+The codes of the package "umontreal_pierre_lecuyer" are taken from Prof. Pierre L’Ecuyer's software library. He developed these libarraies in many programming languages. I have used Java and C implementations. Following are the details:
 1. Java library "SSJ: Stochastic Simulation in Java", http://simul.iro.umontreal.ca/ssj/indexe.html
    Various RNGs are implemented in the package rng of the SSJ library.   See the documention and the examples from the above URL.  SSJ is available freely on GitHub.
 2. C Library: "Random number generators", http://www-labs.iro. umontreal.ca/~simul/rng/ (2017)
